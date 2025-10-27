@@ -1,5 +1,9 @@
 # 💰 Sistema de Mensalidade Escolar (PHP)
 
+## Autores
+@DiogoHBdev
+@sommeralisson
+
 ## 🏫 *Tema do Projeto*
 
 *Mensalidade Escolar* com cálculo automático de *bolsas, **descontos familiares* e *multas por atraso*.
